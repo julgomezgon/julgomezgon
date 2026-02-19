@@ -47,6 +47,6 @@ I recently built an End-to-End Data Pipeline processing real-time crypto market 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=julgomezgon&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julgomezgon&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=julgomezgon&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=julgomezgon&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
 </div>
