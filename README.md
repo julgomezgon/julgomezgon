@@ -15,7 +15,7 @@
     </a>
   </p>
 
-  <!-- AWS BADGE - CLAVE PARA RECLUTADORES -->
+
   <a href="https://www.credly.com/badges/8a9b6434-0090-4758-a4ea-4b76860b16f8">
     <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120px" alt="AWS Certified Solutions Architect Associate">
   </a>
