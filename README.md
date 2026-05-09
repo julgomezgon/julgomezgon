@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Julian Gomez! 👋</h1>
-  <h3>AWS Certified Solutions Architect Associate ☁️</h3>
+  <h3>AWS Certified Solutions Architect | Technical Solutions Specialist ☁️</h3>
   <p><b>Electronics Engineering Student @ <a href="https://unal.edu.co/">UNAL</a> 🇨🇴</b></p>
 
   <p align="center">
@@ -18,54 +18,52 @@
 
   <p>
     <br>
-    <i>Bridges the gap between <b>Hardware Systems</b> and <b>Scalable Data Architectures</b>.</i><br>
-    Expertise in building End-to-End Serverless Pipelines and Real-Time IoT solutions.
+    <i>Architecting <b>Cost-Effective</b> Cloud Solutions with a focus on <b>Business Impact</b>.</i><br>
+    Specialized in Serverless Architectures, Real-Time Data, and Infrastructure as Code.
   </p>
 </div>
 
 <hr />
 
-### 🛠️ Core Technical Stack
+### 🛠️ Core Technical Stack & Business Value
 
 <div align="center">
 
-| **Cloud & DevOps** | **Data Engineering** | **Languages & Analytics** | **Visualization** |
+| **Cloud & Architecture** | **Data Engineering** | **Languages & DevOps** | **Business & ROI** |
 | :---: | :---: | :---: | :---: |
-| ![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Kinesis](https://img.shields.io/badge/Kinesis-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
-| ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) | ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) |
-| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![Parquet](https://img.shields.io/badge/Parquet-4E9A06?style=for-the-badge&logo=apache&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) |
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) |
+| ![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Cloud Economics](https://img.shields.io/badge/Cloud_Economics-Green?style=for-the-badge&logo=moneygram&logoColor=white) |
+| ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) | ![Kinesis](https://img.shields.io/badge/Kinesis-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
+| ![Networking](https://img.shields.io/badge/VPC_Networking-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) |
 
 </div>
 
 <hr />
 
-### 🚀 Featured Projects
+### 🚀 Impact-Driven Projects
 
-#### 1. [AWS IoT Sentinel: Real-Time Telemetry](https://github.com/julgomezgon/aws-iot-telemetry-pipeline)
-*   **Concept:** End-to-end streaming pipeline for hardware signals.
-*   **Stack:** Python -> Kinesis -> Lambda -> DynamoDB & S3.
-*   **Highlight:** Fully automated with **Terraform**. Real-time dashboard with **Streamlit**.
+#### 1. [AWS Crypto Pipeline: **90% Cost Optimization**](https://github.com/julgomezgon/aws-crypto-data-pipeline)
+*   **Business Problem:** High operational costs due to inefficient storage of massive raw data.
+*   **Solution:** Architected a serverless ETL using Lambda & Athena, implementing Apache Parquet conversion and partitioning.
+*   **Result:** **Reduced storage costs by 90%**, proving the ROI of well-architected data structures.
 
-#### 2. [AWS Crypto Pipeline: Serverless ETL](https://github.com/julgomezgon/aws-crypto-data-pipeline)
-*   **Concept:** Batch ingestion and transformation of market data.
-*   **Stack:** Lambda -> S3 Medallion Architecture -> Athena CTAS.
-*   **Highlight:** Optimized storage by **90%** using Parquet format.
+#### 2. [AWS IoT Sentinel: Real-Time Operational Intelligence](https://github.com/julgomezgon/aws-iot-telemetry-pipeline)
+*   **Business Problem:** Latency issues in hardware monitoring leading to delayed operational responses.
+*   **Solution:** Built a sub-second latency pipeline with Kinesis and DynamoDB, automated via **Terraform**.
+*   **Result:** Enabled real-time visualization of system health, preventing downtime through immediate automated alerts.
 
-#### 3. [Enterprise Data Warehouse (SQL Server)](https://github.com/julgomezgon/sql-data-warehouse-project)
-*   **Concept:** CRM/ERP data integration using Dimensional Modeling.
-*   **Stack:** T-SQL -> Kimball Methodology -> Star Schema.
-*   **Highlight:** Implementation of robust Stored Procedures for ETL orchestration.
+#### 3. [Enterprise Data Warehouse: Source of Truth](https://github.com/julgomezgon)
+*   **Business Problem:** Disparate data sources (CRM/ERP) hindering strategic decision-making.
+*   **Solution:** Designed a Star Schema based on Kimball methodology using SQL Server and T-SQL.
+*   **Result:** Unified data into a single source of truth, optimizing Business Intelligence reporting.
 
 <hr />
 
-### 📊 GitHub Activity
+### 📊 Technical Proficiency
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=julgomezgon&show_icons=true&theme=radical&hide_border=true&hide_rank=true" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=julgomezgon&layout=compact&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=julgomezgon&layout=compact&theme=radical&hide_border=true" height="185" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=julgomezgon&theme=radical&hide_border=true" alt="streak stats" />
-</div>
+<br />
+
+> *"I don't just build architectures; I solve business challenges through technical excellence."*
